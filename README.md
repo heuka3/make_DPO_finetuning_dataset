@@ -4,7 +4,8 @@
 - **make_*.py**: 데이터 생성 및 가공 파이썬 스크립트
 - **verify_*.py**: 데이터 검증 및 자동 수정 파이썬 스크립트
 - **task.md**: 프로젝트 작업 및 설명 문서(그냥 메모장...)
-  
+
+```plaintext
 📁 DPO_Fine_Tuning/
 ├── .env
 ├── .gitignore
@@ -55,3 +56,4 @@
 │   └── 📁 problem_8/
 │
 └── question_format.md
+```
